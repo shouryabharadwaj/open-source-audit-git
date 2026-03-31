@@ -1,6 +1,6 @@
 #!/bin/bash
 # script1_system_identity.sh
-# Author: Shourya Bharadwaj # Roll Number: 24BCE10948
+# Author: Shourya Bharadwaj # Roll Number: 24BAC10051
 # Purpose: Display basic system and user information to establish the environment
 
 echo "==========================================="
