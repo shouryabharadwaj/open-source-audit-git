@@ -1,6 +1,6 @@
 #!/bin/bash
 # script2_package_inspector.sh
-# Author: Aditya Patidar # Roll Number: 24BCE10948
+# Author: Aditya Patidar # Roll Number: 24Bac10051
 # Purpose: Check if Git is installed and show details about some FOSS tools
 
 echo "==========================================="
