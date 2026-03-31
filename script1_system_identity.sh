@@ -46,7 +46,7 @@ echo "==========================================="
 # Date/Time       : 2023-11-20 14:30:00
 # Linux Distro    : Ubuntu 22.04.3 LTS
 # Kernel Version  : 5.15.0-88-generic
-# Logged in User  : aditya
+# Logged in User  : shourya
 # Home Directory  : /home/Shourya bharadwaj  
 # System Uptime   : up 2 hours, 15 minutes
 # -------------------------------------------
